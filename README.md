@@ -27,8 +27,14 @@
 
   ## 💜 &nbsp; History &nbsp; 💜
 
-  <img src="https://img.shields.io/badge/PortfolioSite-FF3366?style=flat-square&logo=About.me&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Tech Blog-1DBF73?style=flat-square&logo=Vonage&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://hold1593.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/PortfolioSite-FF3366?style=flat-square&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="https://velog.io/@mihyun0416" target="_blank">
+    <img src="https://img.shields.io/badge/Tech Blog-1DBF73?style=flat-square&logo=Vonage&logoColor=white"/>
+  </a>
+  <a href="mailto:mihyun0416@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
 
 </div>
